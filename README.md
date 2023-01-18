@@ -1,3 +1,4 @@
 # Portfolio_Python
 Python Projects
-https://github.com/5Slava5/5Slava5/blob/main/Shortcut%20CV.png
+
+![Shortcut CV](https://user-images.githubusercontent.com/116842556/213252550-281535d3-d19e-4c67-8a10-f89e1811c92d.png)
